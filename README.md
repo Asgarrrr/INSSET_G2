@@ -1,3 +1,3 @@
 # INSSET G2
 
-Application type Discord (Chat online,  Gestion utilisateur,  Création de micro service). 
+Application de type Discord (chat en ligne, gestion des utilisateurs, création de micro-services).
