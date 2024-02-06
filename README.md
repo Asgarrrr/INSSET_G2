@@ -1,5 +1,3 @@
-# INSSET_G2
+# INSSET G2
 
-# Dimitri Micro Service 
-- CommandManagerPersonnalisé
-- Service OpenAI GTP
+Application type Discord (Chat online,  Gestion utilisateur,  Création de micro service). 
